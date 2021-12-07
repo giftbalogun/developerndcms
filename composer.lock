@@ -2385,7 +2385,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.3",
+                "php": ">=8.0.8",
                 "phpseclib/bcmath_compat": ">=1.0.3"
             },
             "require-dev": {
