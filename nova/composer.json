@@ -50,7 +50,7 @@
         },
         "laravel": {
             "providers": [
-                "Laravel\\Nova\\Admin\\NovaCoreServiceProvider"
+                "Laravel\\Nova\\NovaCoreServiceProvider"
             ],
             "aliases": {
                 "Nova": "Laravel\\Nova\\Nova"
